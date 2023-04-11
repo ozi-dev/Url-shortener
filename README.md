@@ -12,12 +12,12 @@
 
 ## Technologies Used
 
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose.js
-* EJS
-* Bootstrap
+* [Node.js](https://nodejs.org/)
+* [Express.js](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Mongoose.js](https://mongoosejs.com/)
+* [Bootstrap](https://getbootstrap.com/)
+
 
 ## Prerequisites
 
@@ -58,12 +58,5 @@ The profile page is where users can edit their account information such as email
 
 If you find any bugs or would like to contribute to this project, please feel free to open an issue or submit a pull request.
 
-## Acknowledgements
-
-* [Node.js](https://nodejs.org/)
-* [Express.js](https://expressjs.com/)
-* [MongoDB](https://www.mongodb.com/)
-* [Mongoose.js](https://mongoosejs.com/)
-* [Bootstrap](https://getbootstrap.com/)
 
 That's it! I hope you found this README helpful. Don't hesitate to reach out if you have any questions or need further assistance.
