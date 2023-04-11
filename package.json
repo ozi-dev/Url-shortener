@@ -1,0 +1,24 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "alert": "^5.1.3",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "htmlparser": "^1.7.7",
+    "isomorphic-fetch": "^3.0.0",
+    "mongoose": "^6.7.3",
+    "nanoid": "^4.0.0",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2",
+    "url-exist": "^3.0.1"
+  }
+}
